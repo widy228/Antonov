@@ -1,0 +1,6 @@
+name = input('Введите фамилию, имя: ')
+age = input('Введите возраст: ')
+city = input('Введите город: ')
+print("ФИ: ", name)
+print("Возраст: ", age)
+print("Город: ", city)

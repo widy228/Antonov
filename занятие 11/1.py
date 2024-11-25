@@ -19,7 +19,7 @@ def click():
 
 def messagebox():
     showinfo(title='Информация', message="Файл загружен")
-
+    quit()
 
 root = tk.Tk()
 root.geometry('700x200')
